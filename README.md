@@ -1,7 +1,5 @@
 # AdventureWorks-DB-EDA-with-SQL-and-PowerBI-
 
-Welcome to the AdventureWorks Database Analysis and Visualization project! 
-
 ## Project Overview 
 This project aims to provide insights and visualizations into the AdventureWorks database, which is a sample database provided by Microsoft for learning and testing purposes.
 
@@ -36,5 +34,3 @@ Database - [AdventureWorksDW2019.bak](https://learn.microsoft.com/en-us/sql/samp
 
 ##### iv. Customer Details Dashbaord  
 ![Image](https://github.com/ebunoluwazaynab/AdventureWorks-DB-EDA-with-SQL-and-PowerBI-/blob/main/Visualization/customer_details.jpg)
-
-#### I hope that this project will be a valuable resource for anyone looking to learn more about data analysis and visualization using Microsoft Power BI.
