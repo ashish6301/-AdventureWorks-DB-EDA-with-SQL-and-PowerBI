@@ -1,4 +1,4 @@
-# AdventureWorks-DB-EDA-with-SQL-and-PowerBI-
+# Product Sales & Customer Analysis od AdventureWorks-DB-EDA-with-SQL-and-PowerBI-
 
 ## Project Overview 
 This project aims to provide insights and visualizations into the AdventureWorks database, which is a sample database provided by Microsoft for learning and testing purposes.
